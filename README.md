@@ -1,4 +1,5 @@
 ## Project: AI to Explore the Brain MRI Dataset
+### Medical Image Analysis
 - Team ID: 202005-18 
 - Term: Spring 2020
 - Team members
